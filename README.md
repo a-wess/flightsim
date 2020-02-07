@@ -26,3 +26,5 @@ P.S: Project was abandonded after we get our mark for it (Maybe someday if I hav
 A lot of thanks to this guys' blogs:
 https://victorbush.com/2015/01/tessellated-terrain/
 www.iquilezles.org
+
+## TODO: Move everything to seperate branch, cleanup everything and start from scratch.
